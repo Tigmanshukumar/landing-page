@@ -230,7 +230,7 @@ Animation Keyframes: 5
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/yourusername/skillup-mentorship)** if you found it helpful!
+**[⭐ Star this repo](https://github.com/Tigmanshukumar/landing-page)** if you found it helpful!
 
 Made with ❤️ by [Tigmanshu Kumar](https://github.com/Tigmanshukumar)
 
