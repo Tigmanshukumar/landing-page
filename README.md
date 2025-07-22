@@ -1,4 +1,4 @@
-# SkillUp Mentorship 🚀
+# Landing Page - SkillUp Mentorship 🚀
 - Tigmanshu Kumar
 - Student ID - 1401/INFI25/018
 > A modern, responsive landing page for a digital design and development mentorship program featuring animated elements, interactive components, and a sleek dark theme.
