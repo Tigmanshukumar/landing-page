@@ -14,6 +14,17 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Enroll Now buttons scroll to pricing section
 document.addEventListener('DOMContentLoaded', () => {
+    // Mobile menu toggle
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    
+    menuToggle.addEventListener('click', () => {
+        navLinks.classList.toggle('active');
+        menuToggle.classList.toggle('active');
+    });
+
+   
+
     // Get both Enroll Now buttons
     const heroEnrollBtn = document.querySelector('.shadow__btn');
     const floatingEnrollBtn = document.querySelector('.floating-cta .hover-button');
